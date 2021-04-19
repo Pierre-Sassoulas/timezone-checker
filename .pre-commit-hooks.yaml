@@ -1,0 +1,5 @@
+-   id: timezone-checker
+    name: timezone-checker
+    entry: timezone-checker
+    language: python
+    'types': [python]
